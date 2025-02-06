@@ -1,6 +1,10 @@
 <?xml version="1.0" encoding="ISO-8859-1" standalone="yes"?>
 <ns6:modelConfig xsi:type="ns6:ModelConfig" folder="" pauseCalculations="false" entityCode="19" loadPath="bittest7clone" entityName="bittest7clone" version="5" name="bittest7clone" lastUpdated="2025-02-06T11:19:07.247+02:00" lastUpdatedBy="admin" id="admin:MODEL:bittest7" xmlns:ns6="http://www.modelshop.com/model/model/types" xmlns:ns5="http://www.modelshop.com/datacore/generator/types" xmlns:ns2="http://www.modelshop.com/datacore/view/types" xmlns:ns4="http://www.modelshop.com/datacore/repository/types" xmlns:ns3="http://www.modelshop.com/datacore/message/types" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
     <datalists entityCode="21" entityName="Datalist1" version="11" name="Datalist1" description="" created="2025-02-06T11:20:08.974+02:00" createdBy="admin" lastUpdated="2025-02-06T11:20:08.974+02:00" lastUpdatedBy="admin" id="Datalist1"/>
+    <datalists entityCode="23" entityName="Datalist3" version="13" name="Datalist3" description="" created="2025-02-06T11:21:03.725+02:00" createdBy="admin" lastUpdated="2025-02-06T11:21:03.725+02:00" lastUpdatedBy="admin" id="Datalist3"/>
+    <datalists entityCode="25" entityName="Datalist5" version="16" name="Datalist5" description="" created="2025-02-06T11:22:38.940+02:00" createdBy="admin" lastUpdated="2025-02-06T11:22:38.940+02:00" lastUpdatedBy="admin" id="Datalist5"/>
     <views allColumns="true" default="true" modelView="true" entityName="bittest7clone" name="bittest7clone" description="Default view for list bittest7" id="bittest7clone"/>
     <views allColumns="true" default="true" entityName="Datalist1" name="Datalist1" description="Default view for list Datalist1" id="Datalist1"/>
+    <views allColumns="true" default="true" entityName="Datalist3" name="Datalist3" description="Default view for list Datalist3" id="Datalist3"/>
+    <views allColumns="true" default="true" entityName="Datalist5" name="Datalist5" description="Default view for list Datalist5" id="Datalist5"/>
 </ns6:modelConfig>
